@@ -5,3 +5,8 @@ body {
   background: #f6f8fa;
   text-align: center;
 }
+
+body.dark-mode {
+  background: #121212;
+  color: #f6f8fa;
+}
